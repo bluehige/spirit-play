@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "prepared_at": "2026-10-27T05:23:25.801064+00:00",
+  "prepared_at": "2026-10-27T05:31:23.582487+00:00",
   "build_id": "grimoire-ui-5091c3c25cf2",
   "scope": "Reviewed public Web runtime only; no GitHub upload or publication performed by this tool.",
   "files": [
@@ -16,8 +16,8 @@
     },
     {
       "path": "LICENSES/NotoSansCJK_LICENSE.txt",
-      "bytes": 4393,
-      "sha256": "88f117575237307bdd86a17ef15e21790fc9a662fe4dfb103ca1ca077f0d9982"
+      "bytes": 4301,
+      "sha256": "6a73f9541c2de74158c0e7cf6b0a58ef774f5a780bf191f2d7ec9cc53efe2bf2"
     },
     {
       "path": "LICENSES/SOURCE.txt",
@@ -26,8 +26,8 @@
     },
     {
       "path": "README.md",
-      "bytes": 1337,
-      "sha256": "962f619aeb2833d273db87be1f0e48fad6baf3471c3a260d6bb3f322037c997f"
+      "bytes": 1318,
+      "sha256": "8d894614c18a166dfe1b72a69a03f06162cbd305934fdbbe79f9ef1779a8fe20"
     },
     {
       "path": "index.audio.position.worklet.js",
@@ -66,12 +66,13 @@
     }
   ],
   "manifest_self_hash_excluded": true,
-  "total_payload_bytes": 101240592,
+  "total_payload_bytes": 101240481,
   "max_file_bytes": 104857600,
   "all_files_within_limit": true,
   "excluded_export_metadata": [
     "index.png.import"
   ],
   "separate_development_files_included": false,
-  "client_resources_extractable": true
+  "client_resources_extractable": true,
+  "text_newline": "LF"
 }
