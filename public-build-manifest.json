@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
-  "prepared_at": "2026-10-27T05:31:23.582487+00:00",
-  "build_id": "grimoire-ui-5091c3c25cf2",
+  "prepared_at": "2026-10-27T06:12:50.496703+00:00",
+  "build_id": "feedback-v07-d433ebdab2a3",
   "scope": "Reviewed public Web runtime only; no GitHub upload or publication performed by this tool.",
   "files": [
     {
@@ -42,7 +42,7 @@
     {
       "path": "index.html",
       "bytes": 5336,
-      "sha256": "8f592553e233d2e6a3a10c5ea0243748539267821a6ce8ceaeb30c3098857bb5"
+      "sha256": "7205966b8e27e672771e340408b0950496ac6c5c0e9c3af8d409d7e98d12a1b9"
     },
     {
       "path": "index.js",
@@ -51,8 +51,8 @@
     },
     {
       "path": "index.pck",
-      "bytes": 63068692,
-      "sha256": "525c1d69a9d9bdfc32aecaa09001e4d7396f66f1499c2111a0855d0b8c672e56"
+      "bytes": 63074452,
+      "sha256": "b66eedd14937d641a633cffbe560fac877ba5933e2e0bb57c21896a47dd2dde6"
     },
     {
       "path": "index.png",
@@ -66,7 +66,7 @@
     }
   ],
   "manifest_self_hash_excluded": true,
-  "total_payload_bytes": 101240481,
+  "total_payload_bytes": 101246241,
   "max_file_bytes": 104857600,
   "all_files_within_limit": true,
   "excluded_export_metadata": [
