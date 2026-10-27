@@ -1,0 +1,6 @@
+NotoSansCJKkr-Regular.otf
+Reused unmodified from the user's existing local licensed Noto Sans CJK KR font.
+Source: ../마왕성/v20-u0/assets/fonts/NotoSansCJKkr-Regular.otf
+License: SIL Open Font License 1.1 (NotoSansCJK_LICENSE.txt included; original font copyright metadata retained).
+Purpose: Korean glyph coverage for the approved temporary functional UI on Web.
+This is a font dependency for readability, not a new character, background, or final UI artwork.

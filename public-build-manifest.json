@@ -1,0 +1,77 @@
+{
+  "schema_version": 1,
+  "prepared_at": "2026-10-27T05:23:25.801064+00:00",
+  "build_id": "grimoire-ui-5091c3c25cf2",
+  "scope": "Reviewed public Web runtime only; no GitHub upload or publication performed by this tool.",
+  "files": [
+    {
+      "path": ".nojekyll",
+      "bytes": 0,
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "path": "LICENSES/Godot-and-third-parties.txt",
+      "bytes": 112230,
+      "sha256": "82f0ca88681b53e5b19d1d76488d65d8af3a95329997feb7bade009fa68c09d3"
+    },
+    {
+      "path": "LICENSES/NotoSansCJK_LICENSE.txt",
+      "bytes": 4393,
+      "sha256": "88f117575237307bdd86a17ef15e21790fc9a662fe4dfb103ca1ca077f0d9982"
+    },
+    {
+      "path": "LICENSES/SOURCE.txt",
+      "bytes": 465,
+      "sha256": "1f05002bfa52ddcb25513022eb6eb3bd7e0ec8524d3f240cdb744e4cf37733b1"
+    },
+    {
+      "path": "README.md",
+      "bytes": 1337,
+      "sha256": "962f619aeb2833d273db87be1f0e48fad6baf3471c3a260d6bb3f322037c997f"
+    },
+    {
+      "path": "index.audio.position.worklet.js",
+      "bytes": 2973,
+      "sha256": "be33985bc7160d6bf9646f259cd86b259cd67b02ccb297ee5c44f8ac84327bc8"
+    },
+    {
+      "path": "index.audio.worklet.js",
+      "bytes": 7298,
+      "sha256": "5b476a9c9ce642c0ee4256436d1bc31d9c38f868aca0f9a8e2a57c18d2dec2a3"
+    },
+    {
+      "path": "index.html",
+      "bytes": 5336,
+      "sha256": "8f592553e233d2e6a3a10c5ea0243748539267821a6ce8ceaeb30c3098857bb5"
+    },
+    {
+      "path": "index.js",
+      "bytes": 315759,
+      "sha256": "e3f56ee40e6f84371053db06692cfac15e2c8659547b11c6b2dfa1996dabd981"
+    },
+    {
+      "path": "index.pck",
+      "bytes": 63068692,
+      "sha256": "525c1d69a9d9bdfc32aecaa09001e4d7396f66f1499c2111a0855d0b8c672e56"
+    },
+    {
+      "path": "index.png",
+      "bytes": 21443,
+      "sha256": "3cb4495c0b98dfbe4b663cbf2b6836473572339beb66d902367893162a70be0e"
+    },
+    {
+      "path": "index.wasm",
+      "bytes": 37700666,
+      "sha256": "26b61ce95247012ab3dca3ff51e96d1cdbff44ee91a8c20a83e150afca83f1b6"
+    }
+  ],
+  "manifest_self_hash_excluded": true,
+  "total_payload_bytes": 101240592,
+  "max_file_bytes": 104857600,
+  "all_files_within_limit": true,
+  "excluded_export_metadata": [
+    "index.png.import"
+  ],
+  "separate_development_files_included": false,
+  "client_resources_extractable": true
+}
