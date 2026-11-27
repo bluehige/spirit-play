@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
-  "prepared_at": "2026-10-27T06:12:50.496703+00:00",
-  "build_id": "feedback-v07-d433ebdab2a3",
+  "prepared_at": "2026-11-27T07:05:48.540804+00:00",
+  "build_id": "fun-v08-7382555cfab2",
   "scope": "Reviewed public Web runtime only; no GitHub upload or publication performed by this tool.",
   "files": [
     {
@@ -26,8 +26,8 @@
     },
     {
       "path": "README.md",
-      "bytes": 1318,
-      "sha256": "8d894614c18a166dfe1b72a69a03f06162cbd305934fdbbe79f9ef1779a8fe20"
+      "bytes": 1500,
+      "sha256": "e8934213081bb9a3d22eb9ad5eb3261ce6d0834b875da0b76bc933d432fc8986"
     },
     {
       "path": "index.audio.position.worklet.js",
@@ -42,7 +42,7 @@
     {
       "path": "index.html",
       "bytes": 5336,
-      "sha256": "7205966b8e27e672771e340408b0950496ac6c5c0e9c3af8d409d7e98d12a1b9"
+      "sha256": "9b07bdef3adbc8613019c7fcca032c3ea5f261f7291c77314205688e422ce02a"
     },
     {
       "path": "index.js",
@@ -51,8 +51,8 @@
     },
     {
       "path": "index.pck",
-      "bytes": 63074452,
-      "sha256": "b66eedd14937d641a633cffbe560fac877ba5933e2e0bb57c21896a47dd2dde6"
+      "bytes": 63123424,
+      "sha256": "497ec7da392ffaad2ccaf856e133708f29f93a38160cdd513ff2a8e03379408f"
     },
     {
       "path": "index.png",
@@ -66,7 +66,7 @@
     }
   ],
   "manifest_self_hash_excluded": true,
-  "total_payload_bytes": 101246241,
+  "total_payload_bytes": 101295395,
   "max_file_bytes": 104857600,
   "all_files_within_limit": true,
   "excluded_export_metadata": [
